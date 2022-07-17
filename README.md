@@ -1,2 +1,2 @@
-# signup
-[Odin] Simple Sign up Form
+# Sign up Form
+[Odin Project] Simple Sign up Form
